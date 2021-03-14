@@ -1,5 +1,5 @@
 .place__link {
-    max-width: 456px;;
+    max-width: 456px;
     max-height: 22px;
     font-family: Inter;
     font-style: normal;
@@ -8,7 +8,7 @@
     line-height: 1.22;
     margin-top: 12px;
     text-decoration-line: underline;
-    color: #FFFFFF;  
+    color: #FFFFFF;
     opacity: 1;
     transition: opacity .2s ease-in-out;
 }
