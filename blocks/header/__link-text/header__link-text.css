@@ -11,6 +11,6 @@
 }
 
 .header__link-text:last-of-type {
-    margin-right: none;
+    margin-right: 0;
     text-decoration: none;
 }
