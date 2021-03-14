@@ -1,0 +1,31 @@
+@import url(./__title/cover__title.css);
+@import url(./__subtitle/cover__subtitle.css);
+
+.cover {
+    position: relative;
+    width: 100vw;
+    height: calc(100vw * .625);
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: background-color .2s ease-in-out;
+    background-image: url("../../images/__background.png");
+    background-size: cover;
+}
+
+.cover:hover {
+    background-color: rgba(42, 44, 47, .7);
+    cursor: pointer;
+}
+
+.cover::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: inherit;
+    content: "";
+}

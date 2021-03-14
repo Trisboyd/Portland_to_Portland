@@ -1,0 +1,6 @@
+.header__lang-links {
+    width: 73px;
+    height: 28px;
+    display: flex;
+    flex-direction: row;
+}

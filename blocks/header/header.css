@@ -1,0 +1,12 @@
+@import url(./__image/header__image.css);
+@import url(./__lang-links/header__lang-links.css);
+@import url(./__link-text/header__link-text.css);
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 34px;
+    margin-right: 148px;
+    margin-left: 148px;
+}
