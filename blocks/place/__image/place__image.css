@@ -4,3 +4,11 @@
     margin-right: auto;
     object-fit: cover;
 }
+
+@media screen and (max-width: 425px) {
+
+    .place__image {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+}

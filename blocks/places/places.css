@@ -5,3 +5,11 @@
     padding-top: 92px;
     padding-bottom: 12px;
 }
+
+@media screen and (max-width: 425px) {
+
+    .places {
+        margin: auto;
+        padding-top: 64px;
+    }
+}

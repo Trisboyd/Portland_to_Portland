@@ -1,7 +1,7 @@
 .header__link-text {
-    font-family: Inter;
+    font-family: "Inter", sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 24px;
     line-height: 1.17;
     text-align: right;
@@ -13,4 +13,13 @@
 .header__link-text:last-of-type {
     margin-right: 0;
     text-decoration: none;
+}
+
+@media screen and (max-width: 425px) {
+
+    .header__link-text {
+        font-size: 18px;
+        line-height: 1.11;
+        text-align: end;
+    }
 }

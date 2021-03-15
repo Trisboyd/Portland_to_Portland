@@ -3,7 +3,7 @@
 
 .cover {
     position: relative;
-    width: 100vw;
+    max-width: 100vw;
     height: calc(100vw * .625);
     margin-left: auto;
     margin-right: auto;

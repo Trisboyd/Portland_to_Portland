@@ -1,6 +1,14 @@
 .header__lang-links {
     width: 73px;
-    height: 28px;
     display: flex;
     flex-direction: row;
+}
+
+@media screen and (max-width: 425px) {
+
+    .header__lang-links {
+        height: 20px;
+        padding-top: 12px;
+        width: 61px;
+    }
 }

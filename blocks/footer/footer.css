@@ -13,3 +13,20 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+@media screen and (max-width: 768px)  {
+
+    .footer {
+        margin: 88px 24px 24px 24px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    .footer {
+        margin-top: 64px;
+        margin-bottom: 24px;
+        display: flex;
+        flex-direction: column;
+    }
+}
