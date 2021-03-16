@@ -10,6 +10,13 @@
     text-decoration: none;
 }
 
+@media screen and (max-width: 768px) {
+    
+    .cover__title {
+        margin-bottom: 32px;
+    }
+}
+
 @media screen and (max-width: 425px) {
 
     .cover__title {
