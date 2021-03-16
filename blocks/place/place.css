@@ -37,7 +37,6 @@
     .place {
         display: flex;
         flex-direction: column;
-        width: 100%;
         margin-bottom: 48px;
         row-gap: 0;
     }
