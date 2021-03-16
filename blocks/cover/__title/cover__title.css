@@ -8,13 +8,7 @@
     color: #FFFDFD;
     z-index: 2;
     text-decoration: none;
-}
-
-@media screen and (max-width: 768px) {
-    
-    .cover__title {
-        margin-bottom: 32px;
-    }
+    margin: 0 auto 0;
 }
 
 @media screen and (max-width: 425px) {
