@@ -1,5 +1,7 @@
-#Practicum Sprint 3 Web-Project
+#From Portland to Portland
 ##written by Tristan Boyd
+
+https://trisboyd.github.io/web_project_3/
 
 ***
 
@@ -15,6 +17,8 @@ examples are Erie Pennsylvania and the entire state of Ohio.  Strangely, the wes
 are many sights to see in Montana and the Dakotas even if they are not included in this overview. This website is designed to be 
 compatible across multiple devices with varying dimensions so one can plan the trip from their at-home computer and then check in
 along the way from their mobile device.
+
+The website features the use of grid, flex, and multiple simple hover animations.
 
 ###Deployment
 ---
