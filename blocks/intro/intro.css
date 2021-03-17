@@ -23,14 +23,14 @@
 
     .intro {
         margin: 88px auto;
-        max-width: 720px;
+        max-width: calc(100% * .9375);
     }
 }
 
 @media screen and (max-width: 425px) {
 
     .intro {
-        width: 288px;
+        width: calc(100% * .9);
         margin-top: 64px;
         margin-bottom: 64px;
     }

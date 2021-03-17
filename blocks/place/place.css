@@ -3,7 +3,7 @@
 @import url(./__link-heading/place__link-heading.css);
 @import url(./__link/place__link.css);
 @import url(./__image/place__image.css);
-@import url(./__text-container/place__text-container.css);
+@import url(./__text/place__text.css);
 @import url(./__paragraph/place__paragraph.css);
 
 .place {
@@ -32,7 +32,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
 
     .place {
         display: flex;
