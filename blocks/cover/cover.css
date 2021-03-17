@@ -3,5 +3,6 @@
 @import url(./__link/cover__link.css);
 
 .cover {
-    position: relative;
+    max-width: 1184px;
+    margin: auto;
 }
