@@ -1,5 +1,4 @@
 .header__lang-links {
-    width: 73px;
     display: flex;
     flex-direction: row;
     align-items: flex-end;
@@ -9,6 +8,5 @@
 
     .header__lang-links {
         padding-top: 12px;
-        width: 61px;
     }
 }

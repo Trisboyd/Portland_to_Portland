@@ -1,8 +1,7 @@
 .cover__link {
     position: relative;
     max-width: 100%;
-    min-height: calc(100vw * .625);
-    max-height: 740px;
+    min-height: 740px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -29,4 +28,11 @@
     bottom: 0;
     background-color: inherit;
     content: "";
+}
+
+@media screen and (max-width: 1024px) {
+
+    .cover__link {
+        min-height: calc(100vw * .625);
+    }
 }
