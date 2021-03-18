@@ -26,5 +26,6 @@
     .places {
         margin: auto;
         padding-top: 64px;
+        max-width: 100vw;
     }
 }
