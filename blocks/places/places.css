@@ -10,14 +10,14 @@
 @media screen and (max-width: 1024px) {
     
     .places {
-        max-width: calc(100% * .906);
+        max-width: 90.6%;
     }
 }
 
 @media screen and (max-width: 768px) {
 
     .places {
-        max-width: calc(100% * .9375);
+        max-width: 93.75%;
         padding-top: 88px;
     }
 }

@@ -1,7 +1,7 @@
 @media screen and (max-width: 500px) {
 
     .place__text {
-        width: calc(100% * .9);
+        width: 90%;
         margin-right: 16px;
         margin-left: 16px;
     }
