@@ -12,7 +12,7 @@
 @media screen and (max-width: 1024px) {
 
     .photo-grid {
-        max-width: calc(100% * .91);
+        max-width: calc(100% * .906);
         grid-gap: 14px;
     }
 }
@@ -20,6 +20,7 @@
 @media screen and (max-width: 768px)  {
 
     .photo-grid {
+        max-width: calc(100% * .9375);
         grid-gap: 16px;
     }
 }
@@ -28,6 +29,7 @@
 
     .photo-grid {
         grid-gap: 12px;
+        max-width: calc(100% * .9);
     }
 }
 
